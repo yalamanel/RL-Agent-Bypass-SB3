@@ -84,4 +84,10 @@ This repository contains code for an AI dedicated to bypassing a player (going f
 - The reliability of this code is not guaranteed as it involves numerous additions and requires some adjustments.
 - For visibility matters, the obstacles are in white instead of black.
 
-![Overview](image.png)
+<p align="center">
+  <img src="image.png" alt="Overview" width="400">
+</p>
+
+<p align="center">
+  Display overview.
+</p>
