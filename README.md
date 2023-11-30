@@ -18,7 +18,7 @@ This repository contains code for an AI dedicated to bypassing a player (going f
 
    ```bash
    git clone https://github.com/yalamanel/rl-agent-bypass-sb3.git
-   cd RL_Agent_Bypass
+   cd RL-Agent-Bypass-SB3
 
    ```
 
