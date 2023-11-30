@@ -82,3 +82,6 @@ This repository contains code for an AI dedicated to bypassing a player (going f
 
 - The code is based on the stable baselines3 library and the Gymnasium environment.
 - The reliability of this code is not guaranteed as it involves numerous additions and requires some adjustments.
+- For visibility matters, the obstacles are in white instead of black.
+
+![Overview](image.png)
